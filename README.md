@@ -3,6 +3,10 @@
 
 Gesture Controlled Virtual Mouse makes human-computer interaction simple by utilizing Hand Gestures. The computer requires almost no direct contact, and all input/output operations can be virtually controlled using static and dynamic hand gestures. This project leverages state-of-the-art Machine Learning and Computer Vision algorithms to recognize hand gestures and voice commands, providing smooth interaction without any additional hardware requirements. It consists of two modules: one which directly works on hands using MediaPipe Hand detection, and the other which makes use of gloves of any uniform color. Currently, it works on the Windows platform.
 
+![Screenshot 2024-03-16 030855](https://github.com/GokulAnithaNandakumar/Technicia/assets/112749784/64b86d2a-5858-43a9-a8d0-a1b2aaf324d4)
+![Screenshot 2024-03-16 030910](https://github.com/GokulAnithaNandakumar/Technicia/assets/112749784/edda3903-ffe4-4aa1-bc0a-501a0541058f)
+
+
 ### Future Applications
 1. **Hospital Surgery Room**: Surgeons can control vital monitors for patients' data history without contaminating gloves, ensuring a sterile environment during surgeries.
 2. **Billing & Restaurant Kiosks**: Users can navigate through billing kiosks in public spaces without physically touching the screen, enhancing hygiene and reducing the spread of germs.
@@ -15,12 +19,6 @@ Gesture Controlled Virtual Mouse makes human-computer interaction simple by util
  - Screen scroll
  - Demo Shopping interface [Here](https://github.com/GokulAnithaNandakumar/Technicia/blob/main/Shopping/src/DragDrop.html) 
  - Powerpoint controls [Here](https://github.com/GokulAnithaNandakumar/Technicia/blob/main/Powerpoint/powerpoint.py)
-
-   
-![Screenshot 2024-03-16 030855](https://github.com/GokulAnithaNandakumar/Technicia/assets/112749784/64b86d2a-5858-43a9-a8d0-a1b2aaf324d4)
-![Screenshot 2024-03-16 030910](https://github.com/GokulAnithaNandakumar/Technicia/assets/112749784/edda3903-ffe4-4aa1-bc0a-501a0541058f)
-
-
 
 
 ### Frameworks, Libraries, and Technologies Used
