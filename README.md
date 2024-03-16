@@ -7,6 +7,16 @@ Gesture Controlled Virtual Mouse makes human-computer interaction simple by util
 ![Screenshot 2024-03-16 030910](https://github.com/GokulAnithaNandakumar/Technicia/assets/112749784/edda3903-ffe4-4aa1-bc0a-501a0541058f)
 
 
+### Frameworks, Libraries, and Technologies Used
+- ![MediaPipe](https://img.shields.io/badge/MediaPipe-Latest-blue)
+- ![OpenCV](https://img.shields.io/badge/OpenCV-4.5.3-green)
+- ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0.9.52-orange)
+- ![Math](https://img.shields.io/badge/Math-Standard-yellow)
+- ![PyCaw](https://img.shields.io/badge/PyCaw-Latest-lightgrey)
+- ![Enum](https://img.shields.io/badge/Enum-Latest-red)
+- ![ctypes](https://img.shields.io/badge/ctypes-Latest-blueviolet)
+- ![comtypes](https://img.shields.io/badge/comtypes-Latest-yellowgreen)
+
 ### Future Applications
 1. **Hospital Surgery Room**: Surgeons can control vital monitors for patients' data history without contaminating gloves, ensuring a sterile environment during surgeries.
 2. **Billing & Restaurant Kiosks**: Users can navigate through billing kiosks in public spaces without physically touching the screen, enhancing hygiene and reducing the spread of germs.
@@ -21,17 +31,6 @@ Gesture Controlled Virtual Mouse makes human-computer interaction simple by util
  - Powerpoint controls [Here](https://github.com/GokulAnithaNandakumar/Technicia/blob/main/Powerpoint/powerpoint.py)
 
 
-### Frameworks, Libraries, and Technologies Used
-- ![MediaPipe](https://img.shields.io/badge/MediaPipe-Latest-blue)
-- ![OpenCV](https://img.shields.io/badge/OpenCV-4.5.3-green)
-- ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0.9.52-orange)
-- ![Math](https://img.shields.io/badge/Math-Standard-yellow)
-- ![PyCaw](https://img.shields.io/badge/PyCaw-Latest-lightgrey)
-- ![Enum](https://img.shields.io/badge/Enum-Latest-red)
-- ![ctypes](https://img.shields.io/badge/ctypes-Latest-blueviolet)
-- ![comtypes](https://img.shields.io/badge/comtypes-Latest-yellowgreen)
-
-
 ### Instructions for Running
 To run the Gesture Controlled OS, follow these steps:
 
@@ -43,4 +42,4 @@ To run the Gesture Controlled OS, follow these steps:
 6. Run DragDrop.html inside Shopping/src for a sample kiosk setup, to test the gestures
 
 
-For any inquiries or issues, please contact santhoshkumarsp222004@gmail.com .
+For any inquiries or issues, please contact santhoshkumarsp222004@gmail.com
